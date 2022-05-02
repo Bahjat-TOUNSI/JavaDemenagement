@@ -3,7 +3,7 @@ package com.example.ondemenage;
 public class OnDemenage {
     public static void main(String[] args) {
         int loadCapacity = 9;
-        int boxes = 34;
+        int boxes = 340;
         int boxesDelivered;
 
         while(boxes > 0){
